@@ -1,16 +1,16 @@
 # Hierarchical Product Classification Using Machine Learning
 
 # Table of Contents
-Project Overview
-Dataset Description
-Model Pipeline
-Key Features
-Installation and Setup
-Preprocessing and Feature Engineering
-Models and Hyperparameter Tuning
-Results and Evaluation
-Future Work
-Contributors
+
+- Project Overview
+- Dataset Description
+- Model Pipeline
+- Key Features
+- Preprocessing and Feature Engineering
+- Models and Hyperparameter Tuning
+- Results and Evaluation
+- Future Work
+
 
 # Project Overview
 This project aims to build a hierarchical classification system to categorize products into three levels of granularity:
