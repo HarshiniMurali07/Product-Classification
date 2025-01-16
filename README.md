@@ -112,7 +112,7 @@ Stable across ensemble models like Random Forest and Extra Trees.
 
 # Combined Visualization
 Performance trends across metrics (accuracy, macro F1, and weighted F1) are visualized for easy comparison.
-!(combined.png)
+![alt txt](combined.png)
 
 
 
